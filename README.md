@@ -1,2 +1,2 @@
 # kubernetes-example
-kubernetes 
+kubernetes 연습 및 설정파일 
