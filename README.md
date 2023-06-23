@@ -1,2 +1,2 @@
-# kubernetes yaml 
-kubernetes 연습 & 설정파일 
+# kubernetes  
+kubernetes 설정 
