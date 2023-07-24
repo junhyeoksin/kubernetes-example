@@ -1,2 +1,2 @@
-# kubernetes  
-kubernetes 설정 
+# kubernetes k8s 연습 
+kubernetes ~~ 
